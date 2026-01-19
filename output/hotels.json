@@ -1,0 +1,848 @@
+[
+  {
+    "title": "Волна",
+    "link": "https://yandex.ru/maps/org/volna/90821230189/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Автозаводская",
+    "link": "https://yandex.ru/maps/org/avtozavodskaya/1256302658/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Атлантик",
+    "link": "https://yandex.ru/maps/org/atlantic_hotel/26271139595/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Русский Капитал",
+    "link": "https://yandex.ru/maps/org/russkiy_kapital/220061624351/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Парк Культуры",
+    "link": "https://yandex.ru/maps/org/park_of_culture/244420894961/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Здоровье",
+    "link": "https://yandex.ru/maps/org/zdorovye/193417229433/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Международный аэропорт имени В. П. Чкалова",
+    "link": "https://yandex.ru/maps/org/strigino_international_airport/1793464775/",
+    "district": "Автозаводский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Нижний",
+    "link": "https://yandex.ru/maps/org/lower/194755858327/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Marins Нижний Новгород",
+    "link": "https://yandex.ru/maps/org/marins_nizhny_novgorod/242337076312/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Никитин",
+    "link": "https://yandex.ru/maps/org/nikitin/1250899050/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Майский сад",
+    "link": "https://yandex.ru/maps/org/mayskiy_sad/1135673563/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Ботаника Лофт",
+    "link": "https://yandex.ru/maps/org/botanica_loft/7623778939/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Azimut Отель Нижний Новгород",
+    "link": "https://yandex.ru/maps/org/azimut_hotels/1276729404/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Байка",
+    "link": "https://yandex.ru/maps/org/baika/24904917754/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Salstory",
+    "link": "https://yandex.ru/maps/org/salstory/170385588945/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Кристалл",
+    "link": "https://yandex.ru/maps/org/kristall/157690350642/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Норатон",
+    "link": "https://yandex.ru/maps/org/noraton/166116650511/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Профсоюзная",
+    "link": "https://yandex.ru/maps/org/profsoyuznaya/1094863572/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "ОКА",
+    "link": "https://yandex.ru/maps/org/oka/34659285958/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Багет",
+    "link": "https://yandex.ru/maps/org/baget/114977010769/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Машина избушка",
+    "link": "https://yandex.ru/maps/org/mashina_izbushka/126994313956/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Чугунок",
+    "link": "https://yandex.ru/maps/org/chugunok/45909938412/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Горки",
+    "link": "https://yandex.ru/maps/org/gorky/1219759680/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Покровка",
+    "link": "https://yandex.ru/maps/org/pokrovka/62828799795/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Seven",
+    "link": "https://yandex.ru/maps/org/seven/48790431544/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "КвартРента НН",
+    "link": "https://yandex.ru/maps/org/kvartrenta_nn/172661785307/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "КвартРента НН",
+    "link": "https://yandex.ru/maps/org/kvartrenta_nn/235661224070/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "ИТ-кампус Неймарк",
+    "link": "https://yandex.ru/maps/org/it_kampus_neymark/54182103751/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Мини Отель на Сергиевской 13",
+    "link": "https://yandex.ru/maps/org/mini_hotel_na_sergievskoy_13/76567729775/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "КвартРента НН",
+    "link": "https://yandex.ru/maps/org/kvartrenta_nn/153718378423/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Хостел на студенческой",
+    "link": "https://yandex.ru/maps/org/hostel_na_studencheskoj/242533186369/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Квартирки НН на шоссе Московское 167 корпус 2",
+    "link": "https://yandex.ru/maps/org/kvartirki_nn_na_shosse_moskovskoye_167_korpus_2/151425017707/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "ДзенХоум",
+    "link": "https://yandex.ru/maps/org/dzenkhoum/197569795038/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Уют у озера",
+    "link": "https://yandex.ru/maps/org/uyut_u_ozera/12762980729/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Апартаменты Видовая Студия в Км Тауэр Плаза",
+    "link": "https://yandex.ru/maps/org/apartamenty_vidovaya_studiya_v_km_tauer_plaza/145537885930/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "ДзенХоум Безмятежность 514",
+    "link": "https://yandex.ru/maps/org/dzenkhoum_bezmyatezhnost_514/235525173794/",
+    "district": "Канавинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Заречная",
+    "link": "https://yandex.ru/maps/org/zarechnaya/1107112202/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Яблоки",
+    "link": "https://yandex.ru/maps/org/yabloki/1516781165/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Славянка",
+    "link": "https://yandex.ru/maps/org/slavyanka/1373930246/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Империя",
+    "link": "https://yandex.ru/maps/org/imperiya/51151304308/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "МаксРоял",
+    "link": "https://yandex.ru/maps/org/maxxroyal/1141145890/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "HomeHotel",
+    "link": "https://yandex.ru/maps/org/homehotel/174872233067/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Тихая гавань",
+    "link": "https://yandex.ru/maps/org/tikhaya_gavan/31550601773/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "ЖК Ривер Парк",
+    "link": "https://yandex.ru/maps/org/zhk_river_park/64328635557/",
+    "district": "Ленинский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Московская",
+    "link": "https://yandex.ru/maps/org/moskovskaya/67659971711/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Зори",
+    "link": "https://yandex.ru/maps/org/zori/1000134050/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Надежда",
+    "link": "https://yandex.ru/maps/org/nadezhda/1114067241/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Golden House",
+    "link": "https://yandex.ru/maps/org/golden_house/31516127912/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Князь",
+    "link": "https://yandex.ru/maps/org/knyaz/67120929721/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Гранд Отель ОКА Премиум",
+    "link": "https://yandex.ru/maps/org/grand_hotel_oka_premium/37455897166/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Baker Street",
+    "link": "https://yandex.ru/maps/org/baker_street_/143717834972/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Мартон ОКА",
+    "link": "https://yandex.ru/maps/org/marton_oka/99134164316/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Attashe",
+    "link": "https://yandex.ru/maps/org/attashe/210484489132/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Тихий дворик",
+    "link": "https://yandex.ru/maps/org/tikhy_dvorik/127705026801/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Воробей",
+    "link": "https://yandex.ru/maps/org/vorobey/224673093571/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "9 Ночей-Норт",
+    "link": "https://yandex.ru/maps/org/9_night_nort/185630914855/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "История",
+    "link": "https://yandex.ru/maps/org/history/73352418106/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Жук Жак",
+    "link": "https://yandex.ru/maps/org/zhuk_zhak/1214257754/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Калитка",
+    "link": "https://yandex.ru/maps/org/kalitka/177783234002/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Секвойя by Uloo",
+    "link": "https://yandex.ru/maps/org/sekvojya_by_uloo/59253093567/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Позитив",
+    "link": "https://yandex.ru/maps/org/pozitiv/151691892285/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Меридиан",
+    "link": "https://yandex.ru/maps/org/meridian/46849274615/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Апарт-отель Аура",
+    "link": "https://yandex.ru/maps/org/apart_otel_aura/152709348668/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Green Tower",
+    "link": "https://yandex.ru/maps/org/green_tower/220597527899/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Уют у озера",
+    "link": "https://yandex.ru/maps/org/uyut_u_ozera/169662635584/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Мир",
+    "link": "https://yandex.ru/maps/org/mir/13906063112/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Квартира 12 на Рождественской",
+    "link": "https://yandex.ru/maps/org/kvartira_12_na_rozhdestvenskoy/174771732172/",
+    "district": "Московский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Cort Inn Nizhny Novgorod City Center",
+    "link": "https://yandex.ru/maps/org/cort_inn_nizhny_novgorod_city_center/1572710851/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Hampton by Hilton Nizhny Novgorod",
+    "link": "https://yandex.ru/maps/org/hampton_by_hilton_nizhny_novgorod/1778776038/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Sheraton Nizhny Novgorod Kremlin",
+    "link": "https://yandex.ru/maps/org/sheraton_nizhny_novgorod_kremlin/30421105716/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "bobo st.art.hotel Nizhniy Novgorod",
+    "link": "https://yandex.ru/maps/org/bobo_st_art_hotel_nizhniy_novgorod/206114420210/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Марко",
+    "link": "https://yandex.ru/maps/org/marko/70967669645/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Агродом",
+    "link": "https://yandex.ru/maps/org/agrodom/40582101021/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Весна",
+    "link": "https://yandex.ru/maps/org/vesna/110721419233/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "ГагариНН",
+    "link": "https://yandex.ru/maps/org/gagarinn/80957574931/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Афоня",
+    "link": "https://yandex.ru/maps/org/afonya/1176100646/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Покровка25",
+    "link": "https://yandex.ru/maps/org/pokrovka25/37094252576/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Рождественский дворик",
+    "link": "https://yandex.ru/maps/org/rozhdestvensky_dvorik/1374524180/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Астра",
+    "link": "https://yandex.ru/maps/org/astra/1105144289/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Лесной квартал",
+    "link": "https://yandex.ru/maps/org/lesnoy_kvartal/1242739986/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Николь",
+    "link": "https://yandex.ru/maps/org/nikol/1150847050/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Мечта",
+    "link": "https://yandex.ru/maps/org/mechta/1112438841/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Клевер Удачи",
+    "link": "https://yandex.ru/maps/org/klever_udachi/209160917980/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "На Кожевенном",
+    "link": "https://yandex.ru/maps/org/na_kozhevennom/180372892796/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Вместе в Гости",
+    "link": "https://yandex.ru/maps/org/vmeste_v_gosti/94942589911/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Ключ",
+    "link": "https://yandex.ru/maps/org/klyuch/55281109607/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "БугровЪ",
+    "link": "https://yandex.ru/maps/org/bugrov/152016695867/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Первый класс",
+    "link": "https://yandex.ru/maps/org/pervyj_klass/48698871850/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Гостиница Кстово",
+    "link": "https://yandex.ru/maps/org/hotel_kstovo/1189221905/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Лофт Холл у Кремля",
+    "link": "https://yandex.ru/maps/org/loft_/84669265666/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Александраполь",
+    "link": "https://yandex.ru/maps/org/alexandrapol/43603925520/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Бонджорно",
+    "link": "https://yandex.ru/maps/org/buongiorno/1148813942/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Алсма",
+    "link": "https://yandex.ru/maps/org/alsma/94611401416/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "SunLight",
+    "link": "https://yandex.ru/maps/org/sunlight/168297264213/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "HomeHotel Бетанкура 29",
+    "link": "https://yandex.ru/maps/org/homehotel_betankura_29/32481259074/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Этаж гостиничного типа",
+    "link": "https://yandex.ru/maps/org/etazh_gostinichnogo_tipa/84956504259/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Комфорт плюс",
+    "link": "https://yandex.ru/maps/org/komfort_plyus/174301145383/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Норт на Родионова",
+    "link": "https://yandex.ru/maps/org/nort_na_rodionova/86068926164/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Атмосферная Квартира",
+    "link": "https://yandex.ru/maps/org/atmosfernaya_kvartira/184025630333/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Гостевой дом с русской баней",
+    "link": "https://yandex.ru/maps/org/gostevoy_dom_s_russkoy_baney/9941437137/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Комфорт Плюс",
+    "link": "https://yandex.ru/maps/org/komfort_plus/14375155141/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Shato Group",
+    "link": "https://yandex.ru/maps/org/shato_group/37738583379/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Homehotel Moskovskoe Shosse 137 Apart Hotel",
+    "link": "https://yandex.ru/maps/org/homehotel_moskovskoe_shosse_137_apart_hotel/19612628842/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Аврора",
+    "link": "https://yandex.ru/maps/org/avrora/2456706265/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Квартира на ул. Фучика",
+    "link": "https://yandex.ru/maps/org/kvartira_na_ul_fuchika/92505360177/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Кама",
+    "link": "https://yandex.ru/maps/org/kama/53557708788/",
+    "district": "Нижегородский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Les&Park",
+    "link": "https://yandex.ru/maps/org/les_park/223382717550/",
+    "district": "Приокский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Дисней",
+    "link": "https://yandex.ru/maps/org/disney/218732408434/",
+    "district": "Приокский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Сова",
+    "link": "https://yandex.ru/maps/org/sova/1296217408/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Gorky",
+    "link": "https://yandex.ru/maps/org/gorky/85022314655/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Кулибин",
+    "link": "https://yandex.ru/maps/org/kulibin/1218300633/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Арт 11",
+    "link": "https://yandex.ru/maps/org/art_11/1373362391/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "SunSet",
+    "link": "https://yandex.ru/maps/org/sunset/107405032700/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Октябрьская",
+    "link": "https://yandex.ru/maps/org/oktyabrskaya/1188625980/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Гранат",
+    "link": "https://yandex.ru/maps/org/granat/95940973668/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Акварель",
+    "link": "https://yandex.ru/maps/org/akvarel/75764689353/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Очаг",
+    "link": "https://yandex.ru/maps/org/ochag/1804167302/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Апарт Кремлёвский",
+    "link": "https://yandex.ru/maps/org/apart_kremlyovskiy/239758590004/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Фонда",
+    "link": "https://yandex.ru/maps/org/fonda/1266104580/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Спать",
+    "link": "https://yandex.ru/maps/org/spat/137228208349/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Горький",
+    "link": "https://yandex.ru/maps/org/gorkiy/1184851082/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Титул",
+    "link": "https://yandex.ru/maps/org/titul/1400553286/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Флигель",
+    "link": "https://yandex.ru/maps/org/fligel/187421760819/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Апарт-отель Белый Парус",
+    "link": "https://yandex.ru/maps/org/apart_otel_bely_parus/65795755488/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Апарт-Отель Заповедные Кварталы",
+    "link": "https://yandex.ru/maps/org/apart_otel_zapovednyye_kvartaly/241783436425/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Острожский Вал",
+    "link": "https://yandex.ru/maps/org/ostrozhskiy_val/1014806316/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "HomeHotel на Акимова 22Б",
+    "link": "https://yandex.ru/maps/org/homehotel_na_akimova_22b/237586297877/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Dacha Star",
+    "link": "https://yandex.ru/maps/org/dacha_star/92691266571/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Green Tower Homes",
+    "link": "https://yandex.ru/maps/org/green_tower_homes/35381843524/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Карат",
+    "link": "https://yandex.ru/maps/org/karat/7238435519/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "2rooms на Родионова",
+    "link": "https://yandex.ru/maps/org/2rooms_na_rodionova/176010421505/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "DailyRent-NN Квартира в ЖК Маленькая страна",
+    "link": "https://yandex.ru/maps/org/dailyrent_nn_kvartira_v_zhk_malenkaya_strana/76732544598/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "DalniyaApart - Апартаменты на улице Дальняя",
+    "link": "https://yandex.ru/maps/org/dalniyaapart_apartamenty_na_ulitse_dalnyaya/233379593410/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Вика",
+    "link": "https://yandex.ru/maps/org/vika/68948243180/",
+    "district": "Советский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Balmont",
+    "link": "https://yandex.ru/maps/org/balmont/98975673382/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Каскад",
+    "link": "https://yandex.ru/maps/org/kaskad/1206881060/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Маяк",
+    "link": "https://yandex.ru/maps/org/mayak/1012422116/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Мона Лиза",
+    "link": "https://yandex.ru/maps/org/mona_lisa/1388963006/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Олимпия",
+    "link": "https://yandex.ru/maps/org/olimpiya/1160052788/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Марлен",
+    "link": "https://yandex.ru/maps/org/marlen/152888597738/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  },
+  {
+    "title": "Уют у озера",
+    "link": "https://yandex.ru/maps/org/uyut_u_ozera/206378376633/",
+    "district": "Сормовский",
+    "city": "Нижний Новгород"
+  }
+]
